@@ -8,7 +8,7 @@
 
 ### **👨‍💻 Javascript**
 
-### ** 🔧 Node.js**
+### **🔧 Node.js**
 
 ### **💽 PostgreSQL, MongoDB**
 
