@@ -4,7 +4,7 @@
 
 ### **💻I'm looking  my first job at the industry 🙂**
 
-#   **SKILLS:**
+#   **Skills:**
 
 ### **👨‍💻 Javascript**
 
