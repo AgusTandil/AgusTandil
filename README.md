@@ -1,6 +1,6 @@
 # **Hi there 👋!**
 
-### **My name is Agustin and I'm from Argentina and I'm Full Stack Developer (PERN)**
+### **My name is Agustin. I'm a full stack developer(PERN) from Argentina.**
 
 ### **💻I'm looking  my first job in the industry 🙂**
 
