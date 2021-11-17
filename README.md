@@ -2,7 +2,7 @@
 
 ### **My name is Agustin and I'm from Argentina and I'm Full Stack Developer (PERN)**
 
-### **💻I'm looking  my first job at the industry 🙂**
+### **💻I'm looking  my first job in the industry 🙂**
 
 #   **Skills:**
 
