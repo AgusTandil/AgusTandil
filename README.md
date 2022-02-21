@@ -2,7 +2,7 @@
 
 ### **My name is Agustin. I'm a full stack developer(PERN) from Argentina.**
 
-### **💻I'm looking for my first job in the industry 🙂**
+### telescope I’m currently working on an educational coding bootcamp app 🙂**
 
 #   **Skills:**
 
