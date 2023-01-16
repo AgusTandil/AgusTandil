@@ -2,7 +2,7 @@
 
 ### **My name is Agustin. I'm a full stack developer(PERN) from Argentina.**
 
-###  🚀 I’m currently working on an Software factory 🙂**
+###  🚀 I’m currently working in a software factory called G&L Group 🙂**
 
 #   **Skills:**
 
